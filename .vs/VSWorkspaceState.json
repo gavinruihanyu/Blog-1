@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\webAPI"
+    "\\webAPI",
+    "\\webAPI\\views",
+    "\\webAPI\\views\\layouts"
   ],
+  "SelectedNode": "\\webAPI\\views\\layouts\\footer.ejs",
   "PreviewInSolutionExplorer": false
 }
